@@ -1,0 +1,30 @@
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.actual_value{
+  font-size: 38px;
+}
+
+.currency{
+  margin-left: 9px;
+  font-size: 20px;
+  color: rgb(83, 83, 83);
+}
+
+.stats_today{
+  margin-top: 10px;
+  color: rgb(3, 73, 3);
+  font-size: 19px;
+}
+
+.after_hours_stats{
+  color: rgb(83, 83, 83);
+  font-size: 19px;
+}
+
+.stats_later{
+  color: rgb(119, 4, 4);
+}
