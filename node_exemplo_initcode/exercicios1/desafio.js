@@ -1,5 +1,5 @@
 //FUP que verifique se um número é par ou impar
-let num = 4
+let num = 5
 
 if(num%2==0){
     console.log("O número ",num," é par")
